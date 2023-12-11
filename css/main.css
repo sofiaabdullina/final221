@@ -1,0 +1,90 @@
+body {
+	margin: 0px 0px 0px 0px 0px;
+	background-color:#B3E5EA
+}
+
+.site_banner{
+	border-top: 8px solid black;
+	border-bottom: 1px solid black;
+	padding: 20 px 20px 20px 20px;
+	text-align: center;
+
+}
+
+h3{ 
+	font-family: Georgia, sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+	color: #de2f23;
+	letter-spacing: 1px;
+
+ }
+
+ img{
+ 	width: 330px;
+ }
+
+ .article{
+ 	max-width: 900px;
+ 	margin-left: auto;
+ 	margin-right: auto;
+
+ }
+
+
+ .story_header{
+ 	font-family: Georgia, sans-serif;
+ 	font-size: 20px;
+ }
+
+ h1{
+ 	font-family: Georgia, sans-serif;
+ 	font-size: 46px;
+ 	margin-bottom: 0px;
+ }
+
+ .byline{
+ 	font-weight: bold;
+ }
+
+
+.photo{
+width: 100%;
+
+}
+
+
+
+.photo_caption{
+	font-size: 14px;
+	margin-top: 0px;
+	color: gray;
+
+}
+
+.story-copy{
+	font-family: Georgia;
+	font-size: 20px;
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+	color: #717171;
+	text-decoration:underline;
+	text-decoration-color: #717171;
+}
+
+.footer{
+	font-family: Georgia,sans-serif;
+	margin-top:30 px;
+	margin-bottom: 30px;
+}
+
+.footer_info{
+	font-size:14px;
+	color:gray;
+}
+
